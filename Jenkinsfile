@@ -12,5 +12,6 @@ pipeline {
                 sh 'cd SampleWebApp && mvn clean package'
             }
         }
+        
     }
 }
